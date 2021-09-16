@@ -13,7 +13,7 @@ Java渣渣，轻喷
 
 ## Week1
 
-[Course Introduction]()
+[Course Introduction](https://github.com/EasonJeung/algs4/tree/main/Week1/Course%20Introduction)
 
 [Union-Find]()
 

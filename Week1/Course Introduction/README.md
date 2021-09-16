@@ -8,7 +8,7 @@
 
 # 2. 作业题
 
-![image-20210916163023085](assets/image-20210916163023085.png)
+![image-20210916163023085](https://picgoej.oss-cn-beijing.aliyuncs.com/image-20210916163023085.png)
 
 第二题`HelloGoodby.java`只能处理输入两个人名（但足以满足题意），理论上能用一个循环（?）满足多个名字的识别。
 
