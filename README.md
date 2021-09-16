@@ -6,3 +6,18 @@ Coursera上的普林斯顿算法公开课
 主要记录课程笔记和作业代码
 
 Java渣渣，轻喷
+
+---
+
+# 目录
+
+## Week1
+
+[Course Introduction]()
+
+[Union-Find]()
+
+[Analysis of Algorithms]()
+
+
+

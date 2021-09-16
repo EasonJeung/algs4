@@ -2,7 +2,7 @@
 
 本人平台是 `Windows 10`
 
-官方的那个一个G大小的`lift-java-installer.exe`是真的不错，完全傻瓜式操作`下载->安装-使用`，让我真心佩服这些大佬为了让小白快速上手做了多少工作。
+官方的那个一个G大小的`lift-java-installer.exe`是真的不错，完全傻瓜式操作`下载->安装-使用`，让我真心佩服这些大佬，为了让小白快速上手不知做了多少工作。
 
 [Windows平台环境配置官方文档（纯英文）](https://lift.cs.princeton.edu/java/windows/)
 
