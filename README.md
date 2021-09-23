@@ -1,7 +1,7 @@
 # algs4
 Coursera Princeton University Algorithms
 
-Coursera上的普林斯顿算法公开课
+Coursera上的普林斯顿算法公开课：COS 226
 
 主要记录课程笔记和作业代码
 
