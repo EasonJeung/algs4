@@ -128,6 +128,8 @@ Test 20: call all methods in random order until all sites are open
 
 ### bug location：
 
+通过阅读课程提供的 [checklist](https://www.cs.princeton.edu/courses/archive/spring19/cos226/assignments/percolation/checklist.php)，发现了 bug 在哪
+
 ![image-20210922084322643](https://picgoej.oss-cn-beijing.aliyuncs.com/image-20210922084322643.png)
 
 之所以会出现"这块格子不是与顶部连通的，但我的结果是连通的。"，是最后 top 和 bottom 连通了，所以导致只与 bottom 连通的底部块也被算作与顶部连通。
@@ -138,5 +140,5 @@ Test 20: call all methods in random order until all sites are open
 
 fuck，I have no idea...
 
-FYI, check [Princeton Spring COS226 assignment percolation chicklist](https://www.cs.princeton.edu/courses/archive/spring19/cos226/assignments/percolation/checklist.php)
+
 
